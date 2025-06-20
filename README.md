@@ -14,4 +14,4 @@ A movie theater management system prototype using SQL database.
 ## Setup
 1. Import database:
 ```bash
-mysql -u username -p < cine_dump.sql
+git clone https://github.com/Zintradev/cine-db-sqltest.git
